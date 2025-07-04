@@ -82,7 +82,7 @@ _*🕺Enjoy your time with us!😊*_
 
 *👨‍💻VVIP-MV-BOT ᴍᴀᴅᴇ ʙʏ WHITESHADOW👨‍💻* `;
 
-await conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/0q4pwo.jpg` }, caption: up })
+await conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/PdGyn2Y/Queen-Rashu-Md.jpg` }, caption: up })
 
 }
 })
