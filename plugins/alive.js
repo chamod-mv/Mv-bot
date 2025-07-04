@@ -31,7 +31,7 @@ let des = `*👋Welcome,VVIP-MOVIE-HUB-MOVIE-DL-X BOT 🍟*
 
 > *©POWERED BY VVIP MOVIE HUB TEAM*
 `
-return await conn.sendMessage(from,{image: {url: "https://files.catbox.moe/x5w7lg.jpeg"},caption: des},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: "https://i.ibb.co/PdGyn2Y/Queen-Rashu-Md.jpg"},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
